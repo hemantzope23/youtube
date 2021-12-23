@@ -34,6 +34,8 @@ const HomePage = () => {
     }
   };
 
+  // view code
+
   return (
     <Container>
       <CategeriesBar />
